@@ -1,0 +1,16 @@
+.click, 
+.no-clicked{
+    font-size: 28px;
+    font-family: Helvetica, "Times New Roma", sans-serif;
+}
+
+.click{
+    background-color: black;
+    color: white;
+}
+
+.no-clicked{
+    background-color: yellow;
+    color:black
+    
+}
